@@ -8,7 +8,4 @@ public class Point {
         this.y = y;
     }
 
-    public void wspolrzedne(){
-        System.out.println("Współrzędne punktu x =" + x + " " + "y" + y);
-    }
 }
